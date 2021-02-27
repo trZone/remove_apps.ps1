@@ -1,7 +1,9 @@
 # remove_apps.ps1
 Removes Windows 10 store apps bloats after installing Windows
 
-
+Notes:
+- commented apps with # at the start of the line are not installed
+- you can add more apps if you know how to look up their names
 
 1. Save remove_apps.ps1 to somewhere like the desktop
 2. On the keyboard, press Windows Button + R
